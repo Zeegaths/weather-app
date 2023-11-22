@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "weather-app",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weather-app"
+	}
+}

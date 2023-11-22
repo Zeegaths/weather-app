@@ -50,7 +50,7 @@ const apiKey = "0246b661c14eeb32c893fbbcc0429370";
         })
 
 
-        //makes enter key an alternative for serach key
+        //makes enter key an alternative for search key
         function handleKeyPress(event) {
             if (event.key === "Enter") {
                 checkWeather(searchBox.value);
